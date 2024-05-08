@@ -33,11 +33,11 @@ CONTENTS:
 DAY1:  we have to start our lab with the following commands:
       cd Desktop,
       cd work/tools/openlane_working_dir/openlane,
-      docker ./flow.tcl -interactive
+      docker ./flow.tcl -interactive.
       ![1](https://github.com/saipoojitha13/SPK-VSD-SOC-DESIGN/assets/142095120/42e894c3-7c13-464a-b7d0-aa8ad5e384e1)
       now we use the following commands to run the synthesis:
-      % package require openlane 0.9
-      % prep -design picorv32a
+      % package require openlane 0.9,
+      % prep -design picorv32a,
       % run synthesis: here synthesis command will do the synthesis process and outputs the result as 
       ![1 6](https://github.com/saipoojitha13/SPK-VSD-SOC-DESIGN/assets/142095120/42d7e47b-fb92-4dde-a3c8-21197e60e2d7)
       now to observe the output we run following few commands on the new tab:
