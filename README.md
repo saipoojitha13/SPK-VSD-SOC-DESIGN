@@ -25,6 +25,9 @@ CONTENTS:
               >> OpenLane project Gitlink description
               >> steps to characterize synthesis results
 
+
+DAY1:  LAB IMAGES::
+        
   
   
                       
