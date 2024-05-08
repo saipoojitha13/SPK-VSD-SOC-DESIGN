@@ -27,7 +27,20 @@ CONTENTS:
 
 
 DAY1:  LAB IMAGES::
-        
+        /home/vsduser/Pictures/1.2.png
+/home/vsduser/Pictures/1.3.png
+/home/vsduser/Pictures/1.4.png
+/home/vsduser/Pictures/1.4.1.png
+/home/vsduser/Pictures/1.png
+/home/vsduser/Pictures/1.5.png
+/home/vsduser/Pictures/1.6.png
+/home/vsduser/Pictures/2.1.png
+/home/vsduser/Pictures/Screenshot from 2024-05-08 11-05-21.png
+/home/vsduser/Pictures/Screenshot from 2024-05-08 11-05-45.png
+/home/vsduser/Pictures/Screenshot from 2024-05-08 11-06-14.png
+/home/vsduser/Pictures/Screenshot from 2024-05-08 11-06-55.png
+/home/vsduser/Pictures/Screenshot from 2024-05-08 11-08-07.png
+/home/vsduser/Pictures/Screenshot from 2024-05-08 11-08-25.png
   
   
                       
