@@ -7,6 +7,10 @@ CONTENTS:
   
             > 1.How to talk to computers ?
                 This is arduino Leonardo board and the highlighted part is the chip. the chip is designed from RTL TO GDS Flow pipeline
+                
+  ![image](https://github.com/saipoojitha13/SPK-VSD-SOC-DESIGN/assets/142095120/91009dd7-6177-4af6-bfc5-ccd81010d9c3)
+
+
             
               >> introduction to QFN-48 Package, chip, pads, core, die and IPs
               >> introduction to RISC-V
