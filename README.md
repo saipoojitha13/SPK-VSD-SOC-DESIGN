@@ -9,6 +9,7 @@ CONTENTS:
               >> introduction to QFN-48 Package, chip, pads, core, die and IPs
               >> introduction to RISC-V
               >> From Software applications to Hardware
+              
             > SOC Design and OpenLane
               >> Introduction to all components of Open-Source digital ASIC design 
               >> Simplified RTL2GDS Flow
