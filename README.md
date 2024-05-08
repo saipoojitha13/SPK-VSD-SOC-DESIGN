@@ -4,6 +4,7 @@ NASSCOM-VSD-SOC-DESIGN-PROGRAM
 
 CONTENTS:
   DAY1: Inception of Open-source EDA, OpenLANE and Sky130 PDK
+  
             > How to talk to computers
               >> introduction to QFN-48 Package, chip, pads, core, die and IPs
               >> introduction to RISC-V
