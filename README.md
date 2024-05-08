@@ -15,4 +15,14 @@ CONTENTS:
               >> Simplified RTL2GDS Flow
               >> Introduction to OpenLane and Strive chipsets
               >> Introduction to OpenLane detailed ASIC design flow
+
+            > Get Familiar to Open-Source EDA tools
+              >> OpenLane Directory Structure in Detail
+              >> Design Preparation step
+              >> Review files after design preparation and run synthesis
+              >> OpenLane project Gitlink description
+              >> steps to characterize synthesis results
+
+  DAY2: 
+  
                       
