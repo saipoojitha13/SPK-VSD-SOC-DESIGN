@@ -27,8 +27,6 @@ CONTENTS:
 
 
 DAY1:  LAB IMAGES::
-
-
       ![1](https://github.com/saipoojitha13/SPK-VSD-SOC-DESIGN/assets/142095120/42e894c3-7c13-464a-b7d0-aa8ad5e384e1)
       
   
